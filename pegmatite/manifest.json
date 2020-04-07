@@ -23,7 +23,7 @@
         "https://gitlab.com/*",
         "https://bitbucket.org/*",
         "https://*.backlog.jp/wiki/*",
-        "https://*.visualstudio.com/*
+        "https://*.visualstudio.com/*"
       ]
     }
   ]
